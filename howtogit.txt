@@ -1,6 +1,0 @@
-cd /caminho/para/sua/pasta  # Navegar até a pasta
-git init                    # Inicializar um repositório Git
-git add .                   # Adicionar todos os arquivos
-git commit -m "Commit inicial"  # Fazer o commit inicial
-git remote add origin https://github.com/username/nome-do-repositorio.git  # Adicionar o repositório remoto
-git push -u origin master   # Enviar arquivos para o GitHub
