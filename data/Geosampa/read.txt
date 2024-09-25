@@ -1,0 +1,1 @@
+Geosampa files are included in the .gitignore file so the project can be pushed to github
