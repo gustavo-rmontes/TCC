@@ -1,1 +1,7 @@
+# sidewalks dataset is too heavy for github
 data/Geosampa/SIRGAS_SHP_calcada.zip
+
+venv/
+
+**/__pycache__/
+*.pyc
