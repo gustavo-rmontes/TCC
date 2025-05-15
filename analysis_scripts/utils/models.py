@@ -18,3 +18,12 @@ meios_transporte = {
     17: "A Pé",
     18: "Outros"
 }
+
+criterio_br = {
+    1: 'A',
+    2: 'B1',
+    3: 'B2', 
+    4: 'C1',
+    5: 'C2',
+    6: 'D-E'
+}
