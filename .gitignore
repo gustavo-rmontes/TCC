@@ -1,5 +1,10 @@
 # sidewalks dataset is too heavy for github
-data/Geosampa/SIRGAS_SHP_calcada.zip
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.zip
 
 .venv/
 venv/
