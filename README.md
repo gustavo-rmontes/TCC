@@ -16,7 +16,7 @@ O objetivo geral deste trabalho é aplicar técnicas presentes na área de Ciên
 ## Ferramentas Utilizadas
 
 - **Linguagens de Programação**: Python
-- **Principais Bibliotecas**: Pandas, Geopandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Principais Bibliotecas**: Pandas, Geopandas, NumPy, Matplotlib, Seaborn
 - **Ambientes de Desenvolvimento**: Jupyter Notebook
 
 ---
@@ -26,5 +26,5 @@ O objetivo geral deste trabalho é aplicar técnicas presentes na área de Ciên
 Para mais informações, entre em contato:
 
 **Gustavo Ribeiro Montes**  
-**E-mail**: [gustavo.montes@unesp.br]  
+**E-mail**: [gustavo.montes@usp.br]  
 **Orientador**: Prof. Higor Amario de Souza
